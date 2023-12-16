@@ -1,0 +1,9 @@
+hr{
+    margin-top: 20px;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,12 @@
+.card-block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.post-card{
+    width: 250px;
+    padding: 25px;
+    text-align: center;
+    border: #1a1a1a solid 1px;
+}
